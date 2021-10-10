@@ -13,6 +13,10 @@ Sample Flight Ticket Booking System
 * User can cancel flight by giving booking id as input <br/>
 * User will also get available seats using giving flight id and booking summary <br/>
 
-# Purpose of Each Function:
+# Purpose of each Functions:
+
+* listFlight() : 
+  - Helps user to get list of all flights names and the counts of flights.
+
 
 
