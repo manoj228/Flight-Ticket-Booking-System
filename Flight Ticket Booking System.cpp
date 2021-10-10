@@ -1088,7 +1088,7 @@ int main()
 	int option;
 	char ch;
 	string id;
-	cout << "Wel\ncome to Flight Ticket Booking System!!";
+	cout << "Welncome to Flight Ticket Booking System!!";
 	do
 	{	
 	cout << "\nList of Functions you can perform : ";
