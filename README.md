@@ -18,5 +18,20 @@ Sample Flight Ticket Booking System
 * listFlight() : 
   - Helps user to get list of all flights names and the counts of flights.
 
+* searchFlight() :
+  - Helps user to search if flights available from source to destination.
+ 
+* bookFlight() :
+  - Helps user to book flights by giving user information and based on availablity of each flight information.
+ 
+* cancelFlight() :
+  - Helps user to cancel flight tickets by using booking id.
 
+* bookSummary() :
+  - Function used to display the users who booked current session.
 
+* checkAvailableSeats() :
+  - Helps user to check all the available seats based on user given flight Id.
+
+* getMealOrderedSeatNumber() : 
+  - Function used to get the seat number of meal order passenger based on flight wise.
